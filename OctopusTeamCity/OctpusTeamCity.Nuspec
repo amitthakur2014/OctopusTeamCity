@@ -1,0 +1,26 @@
+﻿<?xml version="1.0"?>
+<package >
+    <metadata>
+    <id>Octpus</id>
+    <version>1.0.0.0</version>
+    <title>OctpusDemo</title>
+    <authors>Ankit</authors>
+    <owners>Amit</owners>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Awesome application logging utility</description>
+    <releaseNotes>First release.</releaseNotes>
+    <copyright>Copyright 2017</copyright>
+    <tags>logger logging logs</tags>
+    </metadata>
+    <files>
+        <file src="bin\**" target="bin" />
+<file src="content\**" target="content" />
+<file src="fonts\**" target="fonts" />
+<file src="Script\**" target="Script" />
+<file src="About.aspx**" target="About.aspx" />
+<file src="Bundle.config" target="Bundle.config" />
+<file src="Default.aspx" target="Default.aspx" />
+<file src="Web.config" target="Web.config" />
+
+    </files>
+</package>
