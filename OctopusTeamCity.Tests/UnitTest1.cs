@@ -9,6 +9,7 @@ namespace OctopusTeamCity.Tests
         [TestMethod]
         public void TestMethod1()
         {
+            Assert.AreEqual("Hello World","Hello World");
         }
     }
 }
