@@ -17,10 +17,10 @@
 <file src="content\**" target="content" />
 <file src="fonts\**" target="fonts" />
 <file src="Scripts\**" target="Scripts" />
-<file src="About.aspx**" target="About.aspx" />
+<file src="About.aspx" target="About.aspx" />
+<file src="Contact.aspx" target="About.aspx" />
 <file src="Bundle.config" target="Bundle.config" />
 <file src="Default.aspx" target="Default.aspx" />
 <file src="Web.config" target="Web.config" />
-
     </files>
 </package>
